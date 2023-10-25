@@ -1,6 +1,6 @@
-// src/App.js
-import React, { useState } from 'react';
-import './App.css'; // You can create a CSS file for your styling
+
+import React from 'react';
+import './App.css'; 
 
 import Quiz from './Components/Quiz';
 
